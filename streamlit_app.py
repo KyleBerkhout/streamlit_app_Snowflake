@@ -59,6 +59,6 @@ streamlit.write('Thanks for adding ',  add_my_fruit)
 
 
 my_cur.execute("insert into PC_RIVERY_DB.PUBLIC.FRUIT_LOAD_LIST values ('from streamlit')");
-select * from PC_RIVERY_DB.PUBLIC.FRUIT_LOAD_LIST;
+#select * from PC_RIVERY_DB.PUBLIC.FRUIT_LOAD_LIST;
 
 
